@@ -370,7 +370,6 @@ http://naxidigital-jazz128.streaming.rs:8170/;*.mp3
 http://naxidigital-kids128.streaming.rs:8050/;*.mp3
 #EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Radio.png" group-title="RADIO" ,NOSTALGIJA RADIO
 http://nostalgie128.streaming.rs:9250/;*.mp3
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://lo1.in/uk/flgk.png" group-title="EU | UK SPORT" tvg-id="" tvg-name="", ✦●✦UK SPORTS✦●✦
 http://pddqrmu.mmastertv.xyz:80/RafetSalii/2893482853/153690
 #EXTINF:-1 tvg-logo="https://lo1.in/uk/laig0.png" group-title="EU | UK SPORT" tvg-id="laligatv.uk" tvg-name="laligatv.uk", UK| LALIGA TV HD
