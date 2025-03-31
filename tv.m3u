@@ -1,4 +1,4 @@
-#EXTM3U 
+#EXTM3U
 url-tvg="https://epg.serbianforum.org/losmij/epg.xml.gz"
 #EXTINF:-1 tvg-id="RTS 1 HD" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/RTS%201.png" group-title="SRBIJA",RTS 1 HD
 http://nl.iptvsolution.info/rts1/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
