@@ -1180,7 +1180,6 @@ http://tv.topsmart.iptv.uno:80/ZudiAsllani1/CJ2TZ653/13813
 http://tv.topsmart.iptv.uno:80/ZudiAsllani1/CJ2TZ653/3171
 #EXTINF:-1 tvg-id="Jugoton.hr" tvg-name="Jugoton TV HR" tvg-logo="https://picon-13398.kxcdn.com/jugotontvexyu.jpg" group-title="Live: ex-Yu Countries",Jugoton TV HR
 http://tv.topsmart.iptv.uno:80/ZudiAsllani1/CJ2TZ653/6561
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/bosnia/24kitchen.png" group-title="EU | BOSNIA VIP" tvg-id="" tvg-name="", BH: 24 KITCHEN
 http://vipgpno.top:8080/VIP0126169811760430/fae7cbfa8bad/4095
 
@@ -3547,4 +3546,3 @@ http://vipgpno.top:8080/VIP0126169811760430/fae7cbfa8bad/115035
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/exyu/PALMAPLUS.jpg" group-title="EU | SERBIA VIP" tvg-id="" tvg-name="", SRB: PALMA PLUS
 http://vipgpno.top:8080/VIP0126169811760430/fae7cbfa8bad/3511
-
