@@ -1,205 +1,137 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WECmUKH.png" group-title="Montenegro" tvg-id="TVCG2.me" tvg-name="TVCG2.me", TVCG 2
 http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XC7zVog.png" group-title="Montenegro" tvg-id="Parlamentarnikanal.me" tvg-name="Parlamentarnikanal.me", TVCG 3
 https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pf8VEwf.png" group-title="Montenegro" tvg-id="TVCGMNE.me" tvg-name="TVCGMNE.me", TVCG MNE
 http://cdn3.bcdn.rs:1935/cgsat/smil:cgsat.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S1pKHSR.png" group-title="Serbia" tvg-id="RTS1.rs" tvg-name="RTS1.rs", RTS 1
 https://webtvstream.bhtelecom.ba/rts1.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jltAf5h.png" group-title="Serbia" tvg-id="RTS2.rs" tvg-name="RTS2.rs", RTS 2
 https://webtvstream.bhtelecom.ba/rts2.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fh2vawT.png" group-title="Croatia" tvg-id="CMCTV.hr" tvg-name="CMCTV.hr", CMC TV
 https://stream.cmctv.hr:49998/cmc/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hr/0/04/STV.PNG" group-title="Croatia" tvg-id="STV.hr" tvg-name="STV.hr", Televizija Slavonije i Baranje (STV)
 http://89.201.163.244:8080/hls/hdmi.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hr/c/c8/TVnova-logo.png" group-title="Croatia" tvg-id="TVNova.hr" tvg-name="TVNova.hr", TV Nova
 https://stream.agatin.hr:3727/live/tvnovalive.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hr/9/9a/Tv_jadran_logo.png" group-title="Croatia" tvg-id="TVJadran.hr" tvg-name="TVJadran.hr", TV Jadran
 https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hr/8/8a/LibertasTV.png" group-title="Croatia" tvg-id="LibertasTV.hr" tvg-name="LibertasTV.hr", Libertas TV
 https://stream.luci.xyz/hls/LTV.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z1FB6wl.png" group-title="Croatia" tvg-id="AlJazeeraBalkans.ba" tvg-name="AlJazeeraBalkans.ba", Al Jazeera Balkans
 https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
-
 #EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="BravoKidsTV.hr" tvg-name="BravoKidsTV.hr", Bravo! Kids TV (1080p)
 https://streaming.social3.hr/play/r3CK_tdsFIFL3bN7w4NW1plrwsCToUBsRFjhxM68sZY/m3u8
-
 #EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="BravoTV.hr" tvg-name="BravoTV.hr", Bravo! TV (1080p)
 https://streaming.social3.hr/bravoTVkdjd7djd/XAbSERW5p3/2.m3u8
-
 #EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="CMCTV.hr" tvg-name="CMCTV.hr", CMC TV (1080p)
 https://stream.cmctv.hr:49998/cmc/live.m3u8
-
 #EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="DiadoraTV.hr@SD" tvg-name="DiadoraTV.hr@SD", Diadora TV
 https://diadoratv.stream/live/diadora/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="ExtraTV.hr" tvg-name="ExtraTV.hr", Extra TV (1080p)
 https://streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8
-
 #EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="HRT1.hr" tvg-name="HRT1.hr", HRT 1 (720p)
 https://webtvstream.bhtelecom.ba/hrt1.m3u8
-
 #EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="HRT2.hr" tvg-name="HRT2.hr", HRT 2 (720p)
 https://webtvstream.bhtelecom.ba/hrt2.m3u8
-
 #EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="HRT3.hr" tvg-name="HRT3.hr", HRT 3 (720p)
 https://webtvstream.bhtelecom.ba/hrt3.m3u8
-
 #EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="KlapeiTambureTV.hr" tvg-name="KlapeiTambureTV.hr", Klape i Tambure TV (1080p)
 https://stream.cmctv.hr:49998/kit/live.m3u8
-
 #EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="LibertasTV.hr" tvg-name="LibertasTV.hr", Libertas TV (1080p)
 https://stream.luci.xyz/hls/LTV.m3u8
-
 #EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="RadioTelevizijaBanovina.hr" tvg-name="RadioTelevizijaBanovina.hr", Radio Televizija Banovina (1080p) [Not 24/7]
 https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8?DVR=
-
 #EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="SBTV.hr" tvg-name="SBTV.hr", SBTV (1080p) [Not 24/7]
 https://live.leveex.hr/hls/live.m3u8
-
 #EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="STV.hr" tvg-name="STV.hr", STV (720p)
 http://89.201.163.244:8080/hls/hdmi.m3u8
-
 #EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="TVJadran.hr" tvg-name="TVJadran.hr", TV Jadran (720p) [Not 24/7]
 https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
-
 #EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="TVNova.hr" tvg-name="TVNova.hr", TV Nova (720p)
 https://stream.agatin.hr:3727/live/tvnovalive.m3u8
-
 #EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="TVZapad.hr" tvg-name="TVZapad.hr", TV Zapad (1080p) [Not 24/7]
 http://85.94.67.158/TVZAPAD/index.fmp4.m3u8
-
 #EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="TVCG1.me" tvg-name="TVCG1.me", TVCG 1 (720p) [Not 24/7]
 http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="TVCG2.me" tvg-name="TVCG2.me", TVCG 2 (720p) [Not 24/7]
 http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="TVCG3.me" tvg-name="TVCG3.me", TVCG 3 (720p) [Not 24/7]
 https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="TVCGMNE.me" tvg-name="TVCGMNE.me", TVCG MNE (720p) [Not 24/7]
 http://cdn3.bcdn.rs:1935/cgsat/smil:cgsat.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="TVCGMNE.me" tvg-name="TVCGMNE.me", TVCG MNE (720p) [Not 24/7]
 http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.2.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="TVCGMNE.me@SD" tvg-name="TVCGMNE.me@SD", TVCG MNE (720p) [Not 24/7]
 https://viamotionhsi.netplus.ch/live/eds/rtcg/browser-HLS8/rtcg.m3u8
-
 #EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="BalkanRadioSalzburg.at" tvg-name="BalkanRadioSalzburg.at", Balkan Radio Salzburg (480p)
 https://channel.streams.ovh:1936/balkanradiosalzburgtv/balkanradiosalzburgtv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="NarodnaTV.rs" tvg-name="NarodnaTV.rs", Narodna TV (720p)
 https://edge8.pink.rs/narodnatv/index.m3u8
-
 #EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="Pink.rs" tvg-name="Pink.rs", Pink (720p)
 https://edge8.pink.rs/pinktv/index.m3u8
-
 #EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="RadioHitFMTV.rs" tvg-name="RadioHitFMTV.rs", Radio Hit FM TV (720p)
 https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8
-
 #EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="RadioKarolinaTV.rs" tvg-name="RadioKarolinaTV.rs", Radio Karolina TV (720p)
 https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8
-
 #EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="RadioLolaTV.rs" tvg-name="RadioLolaTV.rs", Radio Lola (720p) [Not 24/7]
 https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8
-
 #EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="RTS1.rs" tvg-name="RTS1.rs", RTS 1 (720p) [Not 24/7]
 https://webtvstream.bhtelecom.ba/rts1.m3u8
-
 #EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="RTS2.rs" tvg-name="RTS2.rs", RTS 2 (720p) [Not 24/7]
 https://webtvstream.bhtelecom.ba/rts2.m3u8
-
 #EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="RTSSvet.rs@HD" tvg-name="RTSSvet.rs@HD", RTS Svet HD (720p)
 https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-HLS8/rtssat.m3u8
-
 #EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="TVAS.rs" tvg-name="TVAS.rs", RTV AS (576p)
 https://srv1.adriatelekom.com/TVAS/index.m3u8
-
 #EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="RTVBap.rs" tvg-name="RTVBap.rs", RTV Bap (480p)
 https://53be5ef2d13aa.streamlock.net/rtvbap/uzivo/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="SandzakTV.rs" tvg-name="SandzakTV.rs", Sandzak TV (576p)
 https://streaming.iptv.nextfiber.rs/nxt004/master.m3u8
-
 #EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="SOSKanalPlus.rs" tvg-name="SOSKanalPlus.rs", SOS Kanal Plus (720p)
 https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="TDIRadioTV.rs@SD" tvg-name="TDIRadioTV.rs@SD", TDI Radio TV
 https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8
-
 #EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="BelleAmie.rs" tvg-name="BelleAmie.rs", TV Belle Amie (540p)
 http://92.60.238.10:1935/live/belleamie/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="TVPiKanal.rs" tvg-name="TVPiKanal.rs", TV Pi Kanal (576p) [Not 24/7]
 https://stream.pikanal.rs/pikanal/pgm.m3u8
-
 #EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="TVPirot.rs" tvg-name="TVPirot.rs", TV Pirot (240p) [Not 24/7]
 https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="AlJazeeraBalkans.ba" tvg-name="AlJazeeraBalkans.ba", Al Jazeera Balkans (1080p)
 https://live-hls-apps-ajb-v3-fa.getaj.net/AJB/index.m3u8
-
 #EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="AlJazeeraBalkans.ba" tvg-name="AlJazeeraBalkans.ba", Al Jazeera Balkans (1080p)
 https://live-hls-web-ajb-fa.thehlive.com/AJB/index.m3u8
-
 #EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="BHRT.ba" tvg-name="BHRT.ba", BHRT (720p) [Geo-blocked]
 https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8
-
 #EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="BHT1.ba" tvg-name="BHT1.ba", BHT 1 (720p)
 https://webtvstream.bhtelecom.ba/hls13/bhrtportal_hd_1200.m3u8
-
 #EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="BNTV.ba" tvg-name="BNTV.ba", BN TV (480p)
 https://rtvbn.tv:8080/live/index.m3u8
-
 #EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", Malta (720p) [Not 24/7]
 https://webtvstream.bhtelecom.ba/malta.m3u8
-
 #EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="MariaPlusVisionMedjugorje.ba" tvg-name="MariaPlusVisionMedjugorje.ba", María+Visión Medjugorje (720p)
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Italiasette/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="NTVICKakanj.ba" tvg-name="NTVICKakanj.ba", NTV IC Kakanj (720p)
 https://lon.rtsp.me/dEqnY-myGj84bKrieCIPfA/1743271667/hls/3dH3YAD6.m3u8
-
 #EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="RTVHB.ba" tvg-name="RTVHB.ba", RTV Herceg-Bosne (576p) [Not 24/7]
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="RTVZenica.ba" tvg-name="RTVZenica.ba", RTV Zenica (720p)
 https://stream.rtvze.ba/live/123/123.m3u8
-
 #EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="SuperTV.ba" tvg-name="SuperTV.ba", Super TV Media (720p)
 https://mirtv.club/live/mirtv/index.m3u8
-
 #EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="TelevizijaM.ba" tvg-name="TelevizijaM.ba", Televizija M (1080p)
 https://live.tv-m.net/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/72oMSWz.png" group-title="Bosnia and Herzegovina" tvg-id="N1BosniaHerzegovina.ba" tvg-name="N1BosniaHerzegovina.ba", N1 Bosna i Hercegovina
 https://best-str.umn.cdn.united.cloud/stream?channel=n1bos&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/60/Logo_of_TV_Herceg-Bosne.png" group-title="Bosnia and Herzegovina" tvg-id="RTVHB.ba" tvg-name="RTVHB.ba", RTV HB Ⓢ
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DUBvfWb.png" group-title="Bosnia and Herzegovina" tvg-id="BNTV.ba" tvg-name="BNTV.ba", RTV BN
 https://rtvbn.tv:8080/live/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XYWgd3E.png" group-title="Bosnia and Herzegovina" tvg-id="SuperTV.ba" tvg-name="SuperTV.ba", SuperTV
 https://mirtv.club/live/mirtv/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/thC9NFp.png" group-title="Bosnia and Herzegovina" tvg-id="ntv.ba" tvg-name="ntv.ba", Neon TV
 rtsp://185.50.56.16:554/neontelvizija
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TKUaflB.png" group-title="Bosnia and Herzegovina" tvg-id="RTVZenica.ba" tvg-name="RTVZenica.ba", RTV ZE Ⓢ
 https://stream.rtvze.ba/live/123/123.m3u8
-
