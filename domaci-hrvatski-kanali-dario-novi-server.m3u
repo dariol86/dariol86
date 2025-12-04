@@ -41,6 +41,8 @@ https://webtvstream.bhtelecom.ba/hrt3.m3u8
 https://stream.cmctv.hr:49998/kit/live.m3u8
 #EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="LibertasTV.hr" tvg-name="LibertasTV.hr", Libertas TV (1080p)
 https://stream.luci.xyz/hls/LTV.m3u8
+#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="Osjecka TV" tvg-name="Osjecka Tv", OSJECKA TV
+https://live.osjecka.com:8888/live/main_stream.m3u8
 #EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="RadioTelevizijaBanovina.hr" tvg-name="RadioTelevizijaBanovina.hr", Radio Televizija Banovina (1080p) [Not 24/7]
 https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8?DVR=
 #EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="SBTV.hr" tvg-name="SBTV.hr", SBTV (1080p) [Not 24/7]
